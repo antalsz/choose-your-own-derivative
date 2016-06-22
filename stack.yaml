@@ -1,5 +1,5 @@
-compiler-check: match-exact
-resolver: nightly-2016-06-21
+compiler-check: newer-minor
+resolver:       nightly-2016-06-21
 
 # For more information, see: https://github.com/commercialhaskell/stack/blob/release/doc/yaml_configuration.md
 

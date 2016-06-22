@@ -5,10 +5,11 @@ Derivative".
 
 ## Compilation instructions
 
-Download and install the [stack] tool, then run the `stack build` command in
-this directory.
+Download and install the [stack] tool if you don't have it, then run the
+commands `stack setup` and `stack build` command in this directory.
 
-This code requires GHC 8.
+This code requires GHC 8.  (You can skip `stack setup` if you already have GHC 8
+installed.)
 
 [stack]: http://haskellstack.org
 

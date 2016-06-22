@@ -1,0 +1,17 @@
+name:                choose-your-own-derivative
+version:             0.1.0
+synopsis:            Generic selective choice
+description:         See "`choose` Your Own Derivative" (in submission, TyDe '16)
+license:             MIT
+license-file:        LICENSE
+build-type:          Simple
+extra-source-files:  examples/*.hs
+cabal-version:       >=1.10
+
+library
+  exposed-modules:     Derivatives, Constraints, SType, Value
+                     , Locations, Choose
+                     , Compat
+  build-depends:       base       == 4.9.*
+                     , reflection == 2.1.*
+  default-language:    Haskell2010

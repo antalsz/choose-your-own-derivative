@@ -1,7 +1,7 @@
 # `choose` Your Own Derivative
 
-Code for the submitted TyDe '16 extended abstract "`choose` Your Own
-Derivative".
+Code for the submitted TyDe '16 extended abstract and C∘mp∘se '17 talk "`choose`
+Your Own Derivative".
 
 ## Compilation instructions
 
